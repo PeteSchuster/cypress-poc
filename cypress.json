@@ -1,0 +1,9 @@
+{
+  "video": false,
+  "baseUrl": "https://peteschuster.com/",
+  "ignoreTestFiles": [
+    "**/__snapshots__/*",
+    "**/__image_snapshots__/*"
+  ],
+  "chromeWebSecurity": false
+}
